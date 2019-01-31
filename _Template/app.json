@@ -1,0 +1,29 @@
+{
+  "id": "618d983f-8049-44fe-9f9d-56d4cb3eb873",
+  "name": "Customer Category app",
+  "publisher": "Peter Jakobsen",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.1",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "Assets/SmallLogoBlack512.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+ "features": [
+   "TranslationFile"
+   ],
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.0",
+  "showMyCode": true
+
+  
+  }
